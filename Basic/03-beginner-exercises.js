@@ -38,10 +38,21 @@ console.log(typeof myBoolean)
 
 // 6. A continuación, modifica los valores de las variables por otros del mismo tipo
 
+núm = 5
+myString = "Adiós"
+myBoolean = !(myBoolean)
+
 // 7. A continuación, modifica los valores de las variables por otros de distinto tipo
+
+núm = "Hola"
 
 // 8. Declara constantes con valores asociados a todos los tipos de datos primitivos
 
+const ALTURA = 10
+
 // 9. A continuación, modifica los valores de las constantes
+
+// ALTURA = 0
+console.log(ALTURA)
 
 // 10. Comenta las líneas que produzcan algún tipo de error al ejecutarser
