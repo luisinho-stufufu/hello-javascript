@@ -6,13 +6,35 @@ https://www.twitch.tv/videos/2200149072?t=00h08m02s
 
 // 1. Escribe un comentario en una línea
 
+// Un comentario en una línea
+
 // 2. Escribe un comentario en varias líneas
+
+/*  Un comentario
+    en
+    varias
+    líneas
+*/
 
 // 3. Declara variables con valores asociados a todos los datos de tipo primitivos
 
+let núm = 10
+let myString = "Hola"
+let myBoolean = true
+
+
 // 4. Imprime por consola el valor de todas las variables
 
+console.log(núm)
+console.log(myString)
+console.log(myBoolean)
+
 // 5. Imprime por consola el tipo de todas las variables
+
+console.log(typeof núm)
+console.log(typeof myString)
+console.log(typeof myBoolean)
+
 
 // 6. A continuación, modifica los valores de las variables por otros del mismo tipo
 
